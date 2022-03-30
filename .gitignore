@@ -1,1 +1,3 @@
-*.csv
+reviews.csv
+reviews_text.csv
+reviews_train.csv
